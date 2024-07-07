@@ -1,9 +1,11 @@
 # **STOCKHUB - Inventory Management System**
+
 ## INTRODUCTION
 StockHub is a comprehensive inventory management system designed to streamline the process of tracking and managing stock items within an organization. It offers robust features tailored to meet the needs of businesses of all sizes, from small enterprises to large corporations. StockHub provides functionalities such as real-time inventory tracking, stock level alerts, purchase order management, and customizable reporting. With an intuitive user interface, StockHub aims to enhance operational efficiency by ensuring accurate stock control and optimizing inventory turnover.
 ## TECH USED
-Programming Language : Java Swing
-Code Editor : Netbeans IDE
+- Programming Language : Java Swing
+- Code Editor : Netbeans IDE
+- Database : MySQL
 ## FEATURES
 1. Simplifies administration by allowing admins to manage user accounts easily, controlling access and permissions effectively.
 2. Enables employees to manage product categories and individual items efficiently, ensuring accurate stock levels and easy updates.
