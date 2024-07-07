@@ -11,7 +11,6 @@ Code Editor : Netbeans IDE
 4. Enables employees to maintain up-to-date customer information, enhancing personalized service and improving overall customer satisfaction.
 5. Provides a centralized platform for viewing and generating PDF invoices or order bills, simplifying record-keeping and reporting tasks.
 ## VIDEO
-![](my_video.mov)
-<video width="320" height="240" controls>
-  <source src="C:\Users\subas\Desktop\DBMS PROJECT\stockhub_project.mp4" type="video/mp4">
-</video>
+https://github.com/subashri-e/STOCKHUB/assets/115530600/648dd2c8-6189-492d-85d4-fd7a3f5e1cec
+
+
